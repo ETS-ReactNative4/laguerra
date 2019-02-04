@@ -4,10 +4,7 @@ import { NavLink } from "react-router-dom";
 class NavBar extends React.Component {
   render() {
     return (
-      <div
-        className="navbar"
-        style={{ marginTop: 20, height: 100, marginLeft: 200 }}
-      >
+      <div className="navbar">
         <NavLink to="/" className="link">
           HOME
         </NavLink>

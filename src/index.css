@@ -15,6 +15,9 @@ code {
 }
 
 /* Navbar Styling */
+.navbar {
+  text-align: center;
+}
 
 .navbar .link {
   border: none; /* no border */
@@ -22,7 +25,7 @@ code {
   padding: 0 20px; /* Some padding  */
   cursor: pointer; /* Pointer/hand icon */
   font-family: "Lato", sans-serif;
-  font-size: 14px;
+  font-size: 1vw;
   text-decoration: none;
   letter-spacing: 0.3em;
 }
@@ -46,7 +49,7 @@ code {
 
 .MainHeader {
   margin-top: 30vh;
-  margin-left: 35%;
+  text-align: center;
   font-size: 6vw;
   color: white;
   font-family: "Merriweather", serif;
@@ -57,7 +60,7 @@ code {
   margin-top: -1%;
   letter-spacing: 0.2vw;
   font-size: 1.2vw;
-  margin-left: 35%;
+  text-align: center;
 }
 
 .imgbox {

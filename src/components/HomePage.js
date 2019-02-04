@@ -6,8 +6,8 @@ const style = {
   backgroundImage: `url(${backgroundImg})`,
   width: "100%",
   height: "100vh",
-  margin: "auto",
-  backgroundSize: "cover"
+  backgroundSize: "cover",
+  position: "relative"
 };
 class HomePage extends Component {
   render() {
