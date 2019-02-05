@@ -36,7 +36,7 @@ class Watch extends Component {
             style={{ width: "100%", height: "100vh" }}
             id="player"
             onClick={this.exitMovie}
-            autoPlay
+            controls
           >
             <source src={test} type="video/ogg" />
           </video>
