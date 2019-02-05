@@ -6,7 +6,7 @@ class TakeAction extends Component {
     return (
       <div className="imgbox">
         <NavBar />
-        <div className="form" style={{ width: 600, marginLeft: "32%" }}>
+        <div className="form">
           <h1>HELP END FAMILY SEPARATION</h1>
           <br />
           <h3>DONATE</h3>

@@ -49,8 +49,8 @@ class Watch extends Component {
                 border: "none",
                 outline: "none",
                 cursor: "pointer",
-                marginTop: "10%",
-                textAlign: "center"
+                marginTop: "26%",
+                marginLeft: "40%"
               }}
               onClick={this.handleMovie}
             >
